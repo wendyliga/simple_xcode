@@ -1,0 +1,62 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "SwiftLibrary",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "SwiftLibrary"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "HelloWorld",
+      "printedName": "HelloWorld",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "hello",
+          "printedName": "hello()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12SwiftLibrary10HelloWorldC5helloyyF",
+          "mangledName": "$s12SwiftLibrary10HelloWorldC5helloyyF",
+          "moduleName": "SwiftLibrary",
+          "isOpen": true,
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:12SwiftLibrary10HelloWorldC",
+      "mangledName": "$s12SwiftLibrary10HelloWorldC",
+      "moduleName": "SwiftLibrary",
+      "isOpen": true,
+      "declAttributes": [
+        "AccessControl"
+      ],
+      "hasMissingDesignatedInitializers": true
+    }
+  ],
+  "json_format_version": 6
+}

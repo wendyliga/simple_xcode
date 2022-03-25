@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "1c7d8f6873373aca00158b55ba39dc325fd2e555041d6028a943a4cd9725f0b1"
+build_start_time: [1648173207, 374006032]
+build_end_time: [1648173209, 93657970]
+inputs:
+  "/Users/wendy.liga/Developer/simple_xcode/SwiftLibrary/Bar.swift": [1648173148, 844784259]

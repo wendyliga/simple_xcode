@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/wendy.liga/Developer/simple_xcode/build/Release-iphoneos/SwiftLibrary.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/wendy.liga/Developer/simple_xcode/build/simple_xcode.build/Release-iphoneos/SwiftLibrary.build/unextended-module.modulemap",
+    }]
+  }]
+}
